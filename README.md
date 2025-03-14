@@ -1,5 +1,3 @@
-# Electric_Vehicle_Sales_In_India
-
 # Importing the Libraries
 
 
